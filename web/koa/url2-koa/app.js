@@ -7,8 +7,6 @@ const fs = require('fs');
 const app = new Koa();
 
 // 导入controller middleware
-
-
 // koa 中间件
 app.use(bodyParser());
 // 使用 middleware
