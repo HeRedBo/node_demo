@@ -9,7 +9,7 @@ fs.readFile('xiaoliao.jpg', function(err, data)
     }
     else
     {
-        console.log(data); // now data is a buffer Obcject
+        console.log(data);
         var text = data.toString('utf-8');
         console.log(text);
         console.log(data.length + ' bytes');
