@@ -25,3 +25,17 @@ fs.stat('sample.txt', function(err, stat)
         }
     }
 });
+/**
+ *
+ * fs.Stats
+ * Objects returned from fs.stat() and fs.lstat() are of this type.
+ * fs.stat()和 fs.lstat()方法返回的对象为此类型。
+ *
+ * stats.isFile()
+ * stats.isDirectory()
+ * stats.isBlockDevice()
+ * stats.isCharacterDevice()
+ * stats.isSymbolicLink() (only valid with fs.lstat())stats.isSymbolicLink() （仅对fs.lstat()有效）
+ * stats.isFIFO()
+ * stats.isSocket()
+ */

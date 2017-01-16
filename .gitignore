@@ -1,0 +1,15 @@
+/web/ws/ws-with-koa/node_modules
+/web/rest/rest-hello/node_modules
+/web/rest/rest-hello/.vscode
+/web/rest/rest-koa/node_modules
+/web/rest/rest-koa/.vscode
+/web/vue/hello-vue/node_modules
+/web/vue/hello-vue/.vscode
+/web/vue/form-vue/.vscode
+/web/vue/form-vue/node_modules
+/web/koa/hello-koa/node_modules
+/web/koa/hello-koa/.vscode
+/web/koa/hello-sequelize/node_modules
+/web/koa/hello-sequelize/.vscode
+/web/koa/url2-koa/.vscode
+/web/koa/url2-koa/node_modules
