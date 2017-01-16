@@ -19,3 +19,4 @@
 /web/koa/view-koa/node_modules
 /web/db/hello-sequelize/.vscode
 /web/db/hello-sequelize/node_modules
+/web/db/model-sequelize/.vscode
