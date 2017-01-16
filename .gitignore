@@ -17,3 +17,5 @@
 /web/koa/url-koa/.vscode
 /web/koa/view-koa/.vscode
 /web/koa/view-koa/node_modules
+/web/db/hello-sequelize/.vscode
+/web/db/hello-sequelize/node_modules
