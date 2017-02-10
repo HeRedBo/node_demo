@@ -20,3 +20,4 @@
 /web/db/hello-sequelize/.vscode
 /web/db/hello-sequelize/node_modules
 /web/db/model-sequelize/.vscode
+/web/koa/use-nunjucks/node_modules
