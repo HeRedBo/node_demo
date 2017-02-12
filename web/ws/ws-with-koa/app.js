@@ -52,7 +52,7 @@ function parseUser(obj)
     {
         return;
     }
-    console.log('type pase : ' +obj);
+    console.log('type parse : ' +obj);
     let s = '';
     if(typeof obj == 'string')
     {

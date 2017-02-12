@@ -21,3 +21,7 @@
 /web/db/hello-sequelize/node_modules
 /web/db/model-sequelize/.vscode
 /web/koa/use-nunjucks/node_modules
+/web/test/async-test/node_modules
+/web/test/async-test/.vscode
+/web/test/hello-test/node_modules
+/web/test/hello-test/.vscode
